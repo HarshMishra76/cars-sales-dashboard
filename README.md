@@ -33,7 +33,7 @@ It tracks key sales metrics such as monthly and yearly performance, YOY growth, 
 ---
 
 ## 📷 Dashboard Preview
-> snapshot of dashboard.png
+> https://github.com/HarshMishra76/cars-sales-dashboard/blob/525a752589d1c8813bf7f83118dc68aa673093ba/snapshot%20of%20dashboard.png
 
 ---
 
