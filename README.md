@@ -33,7 +33,7 @@ It tracks key sales metrics such as monthly and yearly performance, YOY growth, 
 ---
 
 ## 📷 Dashboard Preview
-> *(Add screenshots or GIFs of your Power BI dashboard here)*
+> snapshot of dashboard.png
 
 ---
 
